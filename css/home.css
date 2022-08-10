@@ -1,0 +1,29 @@
+.intr{
+    width: 50%;
+    margin-left: 5%;
+    float: left;
+}
+
+.intr p:first-child{
+    font-size: 45px;
+    color: rgb(93, 55, 15);
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+.intr p{
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 5%;
+}
+.intr1{
+    width: 40%;
+    margin-right: 5%;
+    float: right;
+
+}
+.img1{
+    width: 100%;
+
+}
